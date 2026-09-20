@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="theme-color" content="#f7b733">
+<title>GOLDEN FRONT: COMMAND</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div id="app">
+  <section id="menu" class="screen">
+    <div class="logo">GOLDEN FRONT <span>COMMAND</span></div>
+    <p class="tagline">استراتژی، اقتصاد و فرماندهی • نسخه 3.0.0</p>
+    <button data-action="servers" class="primary">🌐 انتخاب سرور و شروع بازی</button>
+    <button data-action="auth" id="authBtn">☁️ ورود / ثبت‌نام</button>
+        <button data-action="continue" id="continueBtn">ادامه بازی</button>
+    <div class="version" id="versionLabel">v3.0.0</div>
+  </section>
+
+  <section id="serverScreen" class="screen hidden">
+    <div class="logo">GOLDEN FRONT <span>COMMAND</span></div>
+    <p class="tagline">انتخاب سرور</p>
+    <div class="server-card">
+      <button class="server-item server-open" data-server="1"><span class="server-icon">🖥️</span><span><b>سرور ۱</b><small>آفلاین • باز • شروع بازی</small></span><strong>ورود ←</strong></button>
+      <button class="server-item server-closed" disabled><span class="server-icon">🌐</span><span><b>سرور آنلاین</b><small>فعلاً در دسترس نیست</small></span><strong>بسته</strong></button>
+    </div>
+    <button data-action="backMenu">بازگشت</button>
+  </section>
+
+  <section id="game" class="screen hidden">
+    <header class="topbar"><button data-action="back">☰</button><div id="countryTitle">کشور شما</div><div class="level">LV <b id="level">1</b></div></header>
+    <div class="resources" id="resources"></div>
+    <div class="eventline" id="eventline">منابع در پایان هر دقیقه به حساب شما اضافه می‌شوند.</div>
+    <main id="panel"></main>
+    <nav class="tabs">
+      <button data-tab="base">🏗️<span>پایگاه</span></button>
+      <button data-tab="army">⚔️<span>ارتش</span></button>
+      <button data-tab="countries">🗺️<span>نقشه</span></button>
+      <button data-tab="upgrade">🧪<span>فناوری</span></button>
+      <button data-tab="diplomacy">🤝<span>دیپلماسی</span></button>
+    </nav>
+  </section>
+</div>
+
+<div id="modal" class="modal hidden"><div class="modalbox"><button id="closeModal" class="close">×</button><div id="modalContent"></div></div></div>
+<div id="countrySelectModal" class="modal hidden"><div class="modalbox"><button id="closeCountrySelect" class="close">×</button><div id="countryChoices"></div></div></div>
+<div id="authModal" class="modal hidden"><div class="modalbox"><button id="closeAuth" class="close">×</button><div id="authContent"></div></div></div>
+<script src="./script.js"></script>
+</body>
+</html>
