@@ -1,0 +1,1712 @@
+[
+  {
+    "name": "آفریقای جنوبی",
+    "en": "South Africa",
+    "flag": "🇿🇦",
+    "iso": "ZAF",
+    "continent": "Africa",
+    "x": 56.96,
+    "y": 66.08,
+    "power": 13810
+  },
+  {
+    "name": "آنگولا",
+    "en": "Angola",
+    "flag": "🇦🇴",
+    "iso": "AGO",
+    "continent": "Africa",
+    "x": 54.85,
+    "y": 56.8,
+    "power": 8652
+  },
+  {
+    "name": "اتیوپی",
+    "en": "Ethiopia",
+    "flag": "🇪🇹",
+    "iso": "ETH",
+    "continent": "Africa",
+    "x": 60.99,
+    "y": 45.19,
+    "power": 8423
+  },
+  {
+    "name": "اریتره",
+    "en": "Eritrea",
+    "flag": "🇪🇷",
+    "iso": "ERI",
+    "continent": "Africa",
+    "x": 60.74,
+    "y": 41.43,
+    "power": 3144
+  },
+  {
+    "name": "اسواتینی",
+    "en": "eSwatini",
+    "flag": "🇸🇿",
+    "iso": "SWZ",
+    "continent": "Africa",
+    "x": 58.72,
+    "y": 64.72,
+    "power": 3342
+  },
+  {
+    "name": "الجزایر",
+    "en": "Algeria",
+    "flag": "🇩🇿",
+    "iso": "DZA",
+    "continent": "Africa",
+    "x": 50.72,
+    "y": 34.34,
+    "power": 12922
+  },
+  {
+    "name": "اوگاندا",
+    "en": "Uganda",
+    "flag": "🇺🇬",
+    "iso": "UGA",
+    "continent": "Africa",
+    "x": 58.99,
+    "y": 49.28,
+    "power": 6593
+  },
+  {
+    "name": "بنین",
+    "en": "Benin",
+    "flag": "🇧🇯",
+    "iso": "BEN",
+    "continent": "Africa",
+    "x": 50.65,
+    "y": 44.64,
+    "power": 4333
+  },
+  {
+    "name": "بوتسوانا",
+    "en": "Botswana",
+    "flag": "🇧🇼",
+    "iso": "BWA",
+    "continent": "Africa",
+    "x": 56.6,
+    "y": 62.28,
+    "power": 4934
+  },
+  {
+    "name": "بوروندی",
+    "en": "Burundi",
+    "flag": "🇧🇮",
+    "iso": "BDI",
+    "continent": "Africa",
+    "x": 58.31,
+    "y": 51.88,
+    "power": 2994
+  },
+  {
+    "name": "بورکینافاسو",
+    "en": "Burkina Faso",
+    "flag": "🇧🇫",
+    "iso": "BFA",
+    "continent": "Africa",
+    "x": 49.51,
+    "y": 43.16,
+    "power": 4797
+  },
+  {
+    "name": "تانزانیا",
+    "en": "Tanzania",
+    "flag": "🇹🇿",
+    "iso": "TZA",
+    "continent": "Africa",
+    "x": 59.65,
+    "y": 53.48,
+    "power": 8007
+  },
+  {
+    "name": "تونس",
+    "en": "Tunisia",
+    "flag": "🇹🇳",
+    "iso": "TUN",
+    "continent": "Africa",
+    "x": 52.65,
+    "y": 31.02,
+    "power": 7632
+  },
+  {
+    "name": "توگو",
+    "en": "Togo",
+    "flag": "🇹🇬",
+    "iso": "TGO",
+    "continent": "Africa",
+    "x": 50.28,
+    "y": 45.31,
+    "power": 3395
+  },
+  {
+    "name": "جمهوری آفریقای مرکزی",
+    "en": "Central African Rep.",
+    "flag": "🇨🇫",
+    "iso": "CAF",
+    "continent": "Africa",
+    "x": 55.66,
+    "y": 46.37,
+    "power": 2244
+  },
+  {
+    "name": "جمهوری دموکراتیک کنگو",
+    "en": "Dem. Rep. Congo",
+    "flag": "🇨🇩",
+    "iso": "COD",
+    "continent": "Africa",
+    "x": 56.55,
+    "y": 51.58,
+    "power": 6055
+  },
+  {
+    "name": "جیبوتی",
+    "en": "Djibouti",
+    "flag": "🇩🇯",
+    "iso": "DJI",
+    "continent": "Africa",
+    "x": 61.81,
+    "y": 43.46,
+    "power": 2274
+  },
+  {
+    "name": "رواندا",
+    "en": "Rwanda",
+    "flag": "🇷🇼",
+    "iso": "RWA",
+    "continent": "Africa",
+    "x": 58.31,
+    "y": 51.12,
+    "power": 4190
+  },
+  {
+    "name": "زامبیا",
+    "en": "Zambia",
+    "flag": "🇿🇲",
+    "iso": "ZMB",
+    "continent": "Africa",
+    "x": 57.7,
+    "y": 57.44,
+    "power": 6028
+  },
+  {
+    "name": "زیمبابوه",
+    "en": "Zimbabwe",
+    "flag": "🇿🇼",
+    "iso": "ZWE",
+    "continent": "Africa",
+    "x": 58.27,
+    "y": 60.5,
+    "power": 4559
+  },
+  {
+    "name": "ساحل عاج",
+    "en": "Côte d'Ivoire",
+    "flag": "🇨🇮",
+    "iso": "CIV",
+    "continent": "Africa",
+    "x": 48.44,
+    "y": 45.8,
+    "power": 6650
+  },
+  {
+    "name": "سنگال",
+    "en": "Senegal",
+    "flag": "🇸🇳",
+    "iso": "SEN",
+    "continent": "Africa",
+    "x": 45.97,
+    "y": 42.03,
+    "power": 5104
+  },
+  {
+    "name": "سودان",
+    "en": "Sudan",
+    "flag": "🇸🇩",
+    "iso": "SDN",
+    "continent": "Africa",
+    "x": 58.3,
+    "y": 41.12,
+    "power": 8449
+  },
+  {
+    "name": "سودان جنوبی",
+    "en": "S. Sudan",
+    "flag": "🇸🇸",
+    "iso": "SSD",
+    "continent": "Africa",
+    "x": 58.39,
+    "y": 45.95,
+    "power": 4120
+  },
+  {
+    "name": "سومالی",
+    "en": "Somalia",
+    "flag": "🇸🇴",
+    "iso": "SOM",
+    "continent": "Africa",
+    "x": 62.7,
+    "y": 47.36,
+    "power": 2537
+  },
+  {
+    "name": "سومالی‌لند",
+    "en": "Somaliland",
+    "flag": "🏳️",
+    "iso": "-99",
+    "continent": "Africa",
+    "x": 62.84,
+    "y": 44.58,
+    "power": 3456
+  },
+  {
+    "name": "سیرالئون",
+    "en": "Sierra Leone",
+    "flag": "🇸🇱",
+    "iso": "SLE",
+    "continent": "Africa",
+    "x": 46.72,
+    "y": 45.26,
+    "power": 3300
+  },
+  {
+    "name": "صحرای غربی",
+    "en": "W. Sahara",
+    "flag": "🇪🇭",
+    "iso": "ESH",
+    "continent": "Africa",
+    "x": 46.63,
+    "y": 36.5,
+    "power": 1520
+  },
+  {
+    "name": "غنا",
+    "en": "Ghana",
+    "flag": "🇬🇭",
+    "iso": "GHA",
+    "continent": "Africa",
+    "x": 49.66,
+    "y": 45.6,
+    "power": 7429
+  },
+  {
+    "name": "لسوتو",
+    "en": "Lesotho",
+    "flag": "🇱🇸",
+    "iso": "LSO",
+    "continent": "Africa",
+    "x": 57.83,
+    "y": 66.46,
+    "power": 2743
+  },
+  {
+    "name": "لیبریا",
+    "en": "Liberia",
+    "flag": "🇱🇷",
+    "iso": "LBR",
+    "continent": "Africa",
+    "x": 47.39,
+    "y": 46.43,
+    "power": 2384
+  },
+  {
+    "name": "لیبی",
+    "en": "Libya",
+    "flag": "🇱🇾",
+    "iso": "LBY",
+    "continent": "Africa",
+    "x": 54.99,
+    "y": 35.0,
+    "power": 6746
+  },
+  {
+    "name": "ماداگاسکار",
+    "en": "Madagascar",
+    "flag": "🇲🇬",
+    "iso": "MDG",
+    "continent": "Africa",
+    "x": 62.97,
+    "y": 60.75,
+    "power": 4978
+  },
+  {
+    "name": "مالاوی",
+    "en": "Malawi",
+    "flag": "🇲🇼",
+    "iso": "MWI",
+    "continent": "Africa",
+    "x": 59.5,
+    "y": 57.32,
+    "power": 4141
+  },
+  {
+    "name": "مالی",
+    "en": "Mali",
+    "flag": "🇲🇱",
+    "iso": "MLI",
+    "continent": "Africa",
+    "x": 49.02,
+    "y": 40.41,
+    "power": 5033
+  },
+  {
+    "name": "مراکش",
+    "en": "Morocco",
+    "flag": "🇲🇦",
+    "iso": "MAR",
+    "continent": "Africa",
+    "x": 47.66,
+    "y": 33.4,
+    "power": 9929
+  },
+  {
+    "name": "مصر",
+    "en": "Egypt",
+    "flag": "🇪🇬",
+    "iso": "EGY",
+    "continent": "Africa",
+    "x": 58.29,
+    "y": 35.27,
+    "power": 15864
+  },
+  {
+    "name": "موریتانی",
+    "en": "Mauritania",
+    "flag": "🇲🇷",
+    "iso": "MRT",
+    "continent": "Africa",
+    "x": 47.13,
+    "y": 38.77,
+    "power": 3827
+  },
+  {
+    "name": "موزامبیک",
+    "en": "Mozambique",
+    "flag": "🇲🇿",
+    "iso": "MOZ",
+    "continent": "Africa",
+    "x": 59.85,
+    "y": 59.57,
+    "power": 4893
+  },
+  {
+    "name": "نامیبیا",
+    "en": "Namibia",
+    "flag": "🇳🇦",
+    "iso": "NAM",
+    "continent": "Africa",
+    "x": 54.77,
+    "y": 62.28,
+    "power": 4430
+  },
+  {
+    "name": "نیجر",
+    "en": "Niger",
+    "flag": "🇳🇪",
+    "iso": "NER",
+    "continent": "Africa",
+    "x": 52.59,
+    "y": 40.36,
+    "power": 4071
+  },
+  {
+    "name": "نیجریه",
+    "en": "Nigeria",
+    "flag": "🇳🇬",
+    "iso": "NGA",
+    "continent": "Africa",
+    "x": 52.22,
+    "y": 44.7,
+    "power": 15784
+  },
+  {
+    "name": "چاد",
+    "en": "Chad",
+    "flag": "🇹🇩",
+    "iso": "TCD",
+    "continent": "Africa",
+    "x": 55.16,
+    "y": 41.48,
+    "power": 4677
+  },
+  {
+    "name": "کامرون",
+    "en": "Cameroon",
+    "flag": "🇨🇲",
+    "iso": "CMR",
+    "continent": "Africa",
+    "x": 53.5,
+    "y": 46.85,
+    "power": 6384
+  },
+  {
+    "name": "کنگو",
+    "en": "Congo",
+    "flag": "🇨🇬",
+    "iso": "COG",
+    "continent": "Africa",
+    "x": 54.2,
+    "y": 50.47,
+    "power": 4661
+  },
+  {
+    "name": "کنیا",
+    "en": "Kenya",
+    "flag": "🇰🇪",
+    "iso": "KEN",
+    "continent": "Africa",
+    "x": 60.5,
+    "y": 49.67,
+    "power": 8045
+  },
+  {
+    "name": "گابن",
+    "en": "Gabon",
+    "flag": "🇬🇦",
+    "iso": "GAB",
+    "continent": "Africa",
+    "x": 53.25,
+    "y": 50.36,
+    "power": 4938
+  },
+  {
+    "name": "گامبیا",
+    "en": "Gambia",
+    "flag": "🇬🇲",
+    "iso": "GMB",
+    "continent": "Africa",
+    "x": 45.71,
+    "y": 42.51,
+    "power": 2283
+  },
+  {
+    "name": "گینه",
+    "en": "Guinea",
+    "flag": "🇬🇳",
+    "iso": "GIN",
+    "continent": "Africa",
+    "x": 46.93,
+    "y": 44.2,
+    "power": 3779
+  },
+  {
+    "name": "گینه استوایی",
+    "en": "Eq. Guinea",
+    "flag": "🇬🇶",
+    "iso": "GNQ",
+    "continent": "Africa",
+    "x": 52.88,
+    "y": 49.09,
+    "power": 4737
+  },
+  {
+    "name": "گینه بیسائو",
+    "en": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "iso": "GNB",
+    "continent": "Africa",
+    "x": 45.8,
+    "y": 43.32,
+    "power": 2162
+  },
+  {
+    "name": "آذربایجان",
+    "en": "Azerbaijan",
+    "flag": "🇦🇿",
+    "iso": "AZE",
+    "continent": "Asia",
+    "x": 63.21,
+    "y": 27.66,
+    "power": 8310
+  },
+  {
+    "name": "اردن",
+    "en": "Jordan",
+    "flag": "🇯🇴",
+    "iso": "JOR",
+    "continent": "Asia",
+    "x": 60.22,
+    "y": 32.64,
+    "power": 6626
+  },
+  {
+    "name": "ارمنستان",
+    "en": "Armenia",
+    "flag": "🇦🇲",
+    "iso": "ARM",
+    "continent": "Asia",
+    "x": 62.5,
+    "y": 27.66,
+    "power": 4448
+  },
+  {
+    "name": "ازبکستان",
+    "en": "Uzbekistan",
+    "flag": "🇺🇿",
+    "iso": "UZB",
+    "continent": "Asia",
+    "x": 67.56,
+    "y": 26.81,
+    "power": 8855
+  },
+  {
+    "name": "اسرائیل",
+    "en": "Israel",
+    "flag": "🇮🇱",
+    "iso": "ISR",
+    "continent": "Asia",
+    "x": 59.72,
+    "y": 32.51,
+    "power": 10097
+  },
+  {
+    "name": "افغانستان",
+    "en": "Afghanistan",
+    "flag": "🇦🇫",
+    "iso": "AFG",
+    "continent": "Asia",
+    "x": 68.36,
+    "y": 31.19,
+    "power": 5994
+  },
+  {
+    "name": "امارات متحده عربی",
+    "en": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "iso": "ARE",
+    "continent": "Asia",
+    "x": 65.06,
+    "y": 36.74,
+    "power": 13332
+  },
+  {
+    "name": "اندونزی",
+    "en": "Indonesia",
+    "flag": "🇮🇩",
+    "iso": "IDN",
+    "continent": "Asia",
+    "x": 82.62,
+    "y": 51.23,
+    "power": 22483
+  },
+  {
+    "name": "ایران",
+    "en": "Iran",
+    "flag": "🇮🇷",
+    "iso": "IRN",
+    "continent": "Asia",
+    "x": 65.08,
+    "y": 31.93,
+    "power": 17462
+  },
+  {
+    "name": "برونئی",
+    "en": "Brunei",
+    "flag": "🇧🇳",
+    "iso": "BRN",
+    "continent": "Asia",
+    "x": 81.92,
+    "y": 47.39,
+    "power": 4833
+  },
+  {
+    "name": "بنگلادش",
+    "en": "Bangladesh",
+    "flag": "🇧🇩",
+    "iso": "BGD",
+    "continent": "Asia",
+    "x": 75.07,
+    "y": 36.76,
+    "power": 13059
+  },
+  {
+    "name": "بوتان",
+    "en": "Bhutan",
+    "flag": "🇧🇹",
+    "iso": "BTN",
+    "continent": "Asia",
+    "x": 75.13,
+    "y": 34.76,
+    "power": 2802
+  },
+  {
+    "name": "تاجیکستان",
+    "en": "Tajikistan",
+    "flag": "🇹🇯",
+    "iso": "TJK",
+    "continent": "Asia",
+    "x": 69.73,
+    "y": 28.56,
+    "power": 4420
+  },
+  {
+    "name": "تایلند",
+    "en": "Thailand",
+    "flag": "🇹🇭",
+    "iso": "THA",
+    "continent": "Asia",
+    "x": 78.06,
+    "y": 41.66,
+    "power": 16137
+  },
+  {
+    "name": "تایوان",
+    "en": "Taiwan",
+    "flag": "🇹🇼",
+    "iso": "TWN",
+    "continent": "Asia",
+    "x": 83.6,
+    "y": 36.81,
+    "power": 15972
+  },
+  {
+    "name": "ترکمنستان",
+    "en": "Turkmenistan",
+    "flag": "🇹🇲",
+    "iso": "TKM",
+    "continent": "Asia",
+    "x": 66.47,
+    "y": 28.28,
+    "power": 6841
+  },
+  {
+    "name": "ترکیه",
+    "en": "Turkey",
+    "flag": "🇹🇷",
+    "iso": "TUR",
+    "continent": "Asia",
+    "x": 59.75,
+    "y": 28.3,
+    "power": 18297
+  },
+  {
+    "name": "تیمور شرقی",
+    "en": "Timor-Leste",
+    "flag": "🇹🇱",
+    "iso": "TLS",
+    "continent": "Asia",
+    "x": 84.99,
+    "y": 54.87,
+    "power": 2580
+  },
+  {
+    "name": "سریلانکا",
+    "en": "Sri Lanka",
+    "flag": "🇱🇰",
+    "iso": "LKA",
+    "continent": "Asia",
+    "x": 72.41,
+    "y": 45.72,
+    "power": 9343
+  },
+  {
+    "name": "سوریه",
+    "en": "Syria",
+    "flag": "🇸🇾",
+    "iso": "SYR",
+    "continent": "Asia",
+    "x": 60.71,
+    "y": 30.55,
+    "power": 5524
+  },
+  {
+    "name": "عراق",
+    "en": "Iraq",
+    "flag": "🇮🇶",
+    "iso": "IRQ",
+    "continent": "Asia",
+    "x": 62.15,
+    "y": 31.65,
+    "power": 12829
+  },
+  {
+    "name": "عربستان سعودی",
+    "en": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "iso": "SAU",
+    "continent": "Asia",
+    "x": 62.37,
+    "y": 36.6,
+    "power": 18525
+  },
+  {
+    "name": "عمان",
+    "en": "Oman",
+    "flag": "🇴🇲",
+    "iso": "OMN",
+    "continent": "Asia",
+    "x": 65.58,
+    "y": 38.55,
+    "power": 8396
+  },
+  {
+    "name": "فلسطین",
+    "en": "Palestine",
+    "flag": "🇵🇸",
+    "iso": "PSE",
+    "continent": "Asia",
+    "x": 59.8,
+    "y": 32.25,
+    "power": 4142
+  },
+  {
+    "name": "فیلیپین",
+    "en": "Philippines",
+    "flag": "🇵🇭",
+    "iso": "PHL",
+    "continent": "Asia",
+    "x": 84.14,
+    "y": 43.46,
+    "power": 14203
+  },
+  {
+    "name": "قبرس",
+    "en": "Cyprus",
+    "flag": "🇨🇾",
+    "iso": "CYP",
+    "continent": "Asia",
+    "x": 59.18,
+    "y": 30.61,
+    "power": 4609
+  },
+  {
+    "name": "قرقیزستان",
+    "en": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "iso": "KGZ",
+    "continent": "Asia",
+    "x": 70.73,
+    "y": 26.94,
+    "power": 4128
+  },
+  {
+    "name": "قزاقستان",
+    "en": "Kazakhstan",
+    "flag": "🇰🇿",
+    "iso": "KAZ",
+    "continent": "Asia",
+    "x": 68.69,
+    "y": 23.23,
+    "power": 11738
+  },
+  {
+    "name": "قطر",
+    "en": "Qatar",
+    "flag": "🇶🇦",
+    "iso": "QAT",
+    "continent": "Asia",
+    "x": 64.22,
+    "y": 35.93,
+    "power": 10517
+  },
+  {
+    "name": "لائوس",
+    "en": "Laos",
+    "flag": "🇱🇦",
+    "iso": "LAO",
+    "continent": "Asia",
+    "x": 78.82,
+    "y": 39.75,
+    "power": 5157
+  },
+  {
+    "name": "لبنان",
+    "en": "Lebanon",
+    "flag": "🇱🇧",
+    "iso": "LBN",
+    "continent": "Asia",
+    "x": 59.96,
+    "y": 31.16,
+    "power": 6599
+  },
+  {
+    "name": "مالزی",
+    "en": "Malaysia",
+    "flag": "🇲🇾",
+    "iso": "MYS",
+    "continent": "Asia",
+    "x": 80.47,
+    "y": 47.93,
+    "power": 14567
+  },
+  {
+    "name": "مغولستان",
+    "en": "Mongolia",
+    "flag": "🇲🇳",
+    "iso": "MNG",
+    "continent": "Asia",
+    "x": 78.6,
+    "y": 23.99,
+    "power": 4984
+  },
+  {
+    "name": "میانمار",
+    "en": "Myanmar",
+    "flag": "🇲🇲",
+    "iso": "MMR",
+    "continent": "Asia",
+    "x": 76.81,
+    "y": 38.32,
+    "power": 10259
+  },
+  {
+    "name": "نپال",
+    "en": "Nepal",
+    "flag": "🇳🇵",
+    "iso": "NPL",
+    "continent": "Asia",
+    "x": 73.34,
+    "y": 34.31,
+    "power": 6221
+  },
+  {
+    "name": "هند",
+    "en": "India",
+    "flag": "🇮🇳",
+    "iso": "IND",
+    "continent": "Asia",
+    "x": 72.11,
+    "y": 37.26,
+    "power": 32458
+  },
+  {
+    "name": "ویتنام",
+    "en": "Vietnam",
+    "flag": "🇻🇳",
+    "iso": "VNM",
+    "continent": "Asia",
+    "x": 79.52,
+    "y": 40.75,
+    "power": 12816
+  },
+  {
+    "name": "پاکستان",
+    "en": "Pakistan",
+    "flag": "🇵🇰",
+    "iso": "PAK",
+    "continent": "Asia",
+    "x": 69.28,
+    "y": 33.35,
+    "power": 15264
+  },
+  {
+    "name": "چین",
+    "en": "China",
+    "flag": "🇨🇳",
+    "iso": "CHN",
+    "continent": "Asia",
+    "x": 78.86,
+    "y": 29.69,
+    "power": 44170
+  },
+  {
+    "name": "ژاپن",
+    "en": "Japan",
+    "flag": "🇯🇵",
+    "iso": "JPN",
+    "continent": "Asia",
+    "x": 88.35,
+    "y": 29.08,
+    "power": 26628
+  },
+  {
+    "name": "کامبوج",
+    "en": "Cambodia",
+    "flag": "🇰🇭",
+    "iso": "KHM",
+    "continent": "Asia",
+    "x": 79.13,
+    "y": 42.95,
+    "power": 5828
+  },
+  {
+    "name": "کره جنوبی",
+    "en": "South Korea",
+    "flag": "🇰🇷",
+    "iso": "KOR",
+    "continent": "Asia",
+    "x": 85.51,
+    "y": 29.76,
+    "power": 19232
+  },
+  {
+    "name": "کره شمالی",
+    "en": "North Korea",
+    "flag": "🇰🇵",
+    "iso": "PRK",
+    "continent": "Asia",
+    "x": 85.32,
+    "y": 27.7,
+    "power": 5116
+  },
+  {
+    "name": "کویت",
+    "en": "Kuwait",
+    "flag": "🇰🇼",
+    "iso": "KWT",
+    "continent": "Asia",
+    "x": 63.22,
+    "y": 33.72,
+    "power": 10144
+  },
+  {
+    "name": "گرجستان",
+    "en": "Georgia",
+    "flag": "🇬🇪",
+    "iso": "GEO",
+    "continent": "Asia",
+    "x": 62.08,
+    "y": 26.58,
+    "power": 4997
+  },
+  {
+    "name": "یمن",
+    "en": "Yemen",
+    "flag": "🇾🇪",
+    "iso": "YEM",
+    "continent": "Asia",
+    "x": 63.2,
+    "y": 41.16,
+    "power": 6277
+  },
+  {
+    "name": "آلبانی",
+    "en": "Albania",
+    "flag": "🇦🇱",
+    "iso": "ALB",
+    "continent": "Europe",
+    "x": 55.56,
+    "y": 27.14,
+    "power": 4841
+  },
+  {
+    "name": "آلمان",
+    "en": "Germany",
+    "flag": "🇩🇪",
+    "iso": "DEU",
+    "continent": "Europe",
+    "x": 52.86,
+    "y": 21.59,
+    "power": 24716
+  },
+  {
+    "name": "اتریش",
+    "en": "Austria",
+    "flag": "🇦🇹",
+    "iso": "AUT",
+    "continent": "Europe",
+    "x": 53.91,
+    "y": 23.55,
+    "power": 11339
+  },
+  {
+    "name": "استونی",
+    "en": "Estonia",
+    "flag": "🇪🇪",
+    "iso": "EST",
+    "continent": "Europe",
+    "x": 57.17,
+    "y": 17.42,
+    "power": 5060
+  },
+  {
+    "name": "اسلواکی",
+    "en": "Slovakia",
+    "flag": "🇸🇰",
+    "iso": "SVK",
+    "continent": "Europe",
+    "x": 55.42,
+    "y": 22.93,
+    "power": 8325
+  },
+  {
+    "name": "اسلوونی",
+    "en": "Slovenia",
+    "flag": "🇸🇮",
+    "iso": "SVN",
+    "continent": "Europe",
+    "x": 54.15,
+    "y": 24.37,
+    "power": 6126
+  },
+  {
+    "name": "اسپانیا",
+    "en": "Spain",
+    "flag": "🇪🇸",
+    "iso": "ESP",
+    "continent": "Europe",
+    "x": 49.0,
+    "y": 27.58,
+    "power": 18372
+  },
+  {
+    "name": "اوکراین",
+    "en": "Ukraine",
+    "flag": "🇺🇦",
+    "iso": "UKR",
+    "continent": "Europe",
+    "x": 58.67,
+    "y": 22.7,
+    "power": 10708
+  },
+  {
+    "name": "ایتالیا",
+    "en": "Italy",
+    "flag": "🇮🇹",
+    "iso": "ITA",
+    "continent": "Europe",
+    "x": 53.37,
+    "y": 26.25,
+    "power": 20194
+  },
+  {
+    "name": "ایرلند",
+    "en": "Ireland",
+    "flag": "🇮🇪",
+    "iso": "IRL",
+    "continent": "Europe",
+    "x": 47.77,
+    "y": 20.46,
+    "power": 10380
+  },
+  {
+    "name": "ایسلند",
+    "en": "Iceland",
+    "flag": "🇮🇸",
+    "iso": "ISL",
+    "continent": "Europe",
+    "x": 44.79,
+    "y": 13.85,
+    "power": 3784
+  },
+  {
+    "name": "بریتانیا",
+    "en": "United Kingdom",
+    "flag": "🇬🇧",
+    "iso": "GBR",
+    "continent": "Europe",
+    "x": 49.21,
+    "y": 20.05,
+    "power": 21848
+  },
+  {
+    "name": "بلاروس",
+    "en": "Belarus",
+    "flag": "🇧🇾",
+    "iso": "BLR",
+    "continent": "Europe",
+    "x": 57.77,
+    "y": 20.27,
+    "power": 8267
+  },
+  {
+    "name": "بلغارستان",
+    "en": "Bulgaria",
+    "flag": "🇧🇬",
+    "iso": "BGR",
+    "continent": "Europe",
+    "x": 57.0,
+    "y": 26.25,
+    "power": 7869
+  },
+  {
+    "name": "بلژیک",
+    "en": "Belgium",
+    "flag": "🇧🇪",
+    "iso": "BEL",
+    "continent": "Europe",
+    "x": 51.27,
+    "y": 21.86,
+    "power": 12143
+  },
+  {
+    "name": "بوسنی و هرزگوین",
+    "en": "Bosnia and Herz.",
+    "flag": "🇧🇦",
+    "iso": "BIH",
+    "continent": "Europe",
+    "x": 54.95,
+    "y": 25.46,
+    "power": 5222
+  },
+  {
+    "name": "دانمارک",
+    "en": "Denmark",
+    "flag": "🇩🇰",
+    "iso": "DNK",
+    "continent": "Europe",
+    "x": 52.74,
+    "y": 18.85,
+    "power": 9708
+  },
+  {
+    "name": "روسیه",
+    "en": "Russia",
+    "flag": "🇷🇺",
+    "iso": "RUS",
+    "continent": "Europe",
+    "x": 76.89,
+    "y": 15.58,
+    "power": 24202
+  },
+  {
+    "name": "رومانی",
+    "en": "Romania",
+    "flag": "🇷🇴",
+    "iso": "ROU",
+    "continent": "Europe",
+    "x": 56.93,
+    "y": 24.52,
+    "power": 11563
+  },
+  {
+    "name": "سوئد",
+    "en": "Sweden",
+    "flag": "🇸🇪",
+    "iso": "SWE",
+    "continent": "Europe",
+    "x": 54.61,
+    "y": 15.1,
+    "power": 12057
+  },
+  {
+    "name": "سوئیس",
+    "en": "Switzerland",
+    "flag": "🇨🇭",
+    "iso": "CHE",
+    "continent": "Europe",
+    "x": 52.26,
+    "y": 24.0,
+    "power": 12042
+  },
+  {
+    "name": "صربستان",
+    "en": "Serbia",
+    "flag": "🇷🇸",
+    "iso": "SRB",
+    "continent": "Europe",
+    "x": 55.78,
+    "y": 25.43,
+    "power": 7010
+  },
+  {
+    "name": "فنلاند",
+    "en": "Finland",
+    "flag": "🇫🇮",
+    "iso": "FIN",
+    "continent": "Europe",
+    "x": 57.28,
+    "y": 14.16,
+    "power": 9170
+  },
+  {
+    "name": "لتونی",
+    "en": "Latvia",
+    "flag": "🇱🇻",
+    "iso": "LVA",
+    "continent": "Europe",
+    "x": 56.9,
+    "y": 18.44,
+    "power": 5538
+  },
+  {
+    "name": "لهستان",
+    "en": "Poland",
+    "flag": "🇵🇱",
+    "iso": "POL",
+    "continent": "Europe",
+    "x": 55.36,
+    "y": 21.03,
+    "power": 15597
+  },
+  {
+    "name": "لوکزامبورگ",
+    "en": "Luxembourg",
+    "flag": "🇱🇺",
+    "iso": "LUX",
+    "continent": "Europe",
+    "x": 51.66,
+    "y": 22.35,
+    "power": 5821
+  },
+  {
+    "name": "لیتوانی",
+    "en": "Lithuania",
+    "flag": "🇱🇹",
+    "iso": "LTU",
+    "continent": "Europe",
+    "x": 56.63,
+    "y": 19.29,
+    "power": 6611
+  },
+  {
+    "name": "مجارستان",
+    "en": "Hungary",
+    "flag": "🇭🇺",
+    "iso": "HUN",
+    "continent": "Europe",
+    "x": 55.38,
+    "y": 23.78,
+    "power": 9743
+  },
+  {
+    "name": "مقدونیه شمالی",
+    "en": "Macedonia",
+    "flag": "🇲🇰",
+    "iso": "MKD",
+    "continent": "Europe",
+    "x": 56.03,
+    "y": 26.89,
+    "power": 4622
+  },
+  {
+    "name": "مولداوی",
+    "en": "Moldova",
+    "flag": "🇲🇩",
+    "iso": "MDA",
+    "continent": "Europe",
+    "x": 57.89,
+    "y": 23.78,
+    "power": 3961
+  },
+  {
+    "name": "مونته‌نگرو",
+    "en": "Montenegro",
+    "flag": "🇲🇪",
+    "iso": "MNE",
+    "continent": "Europe",
+    "x": 55.36,
+    "y": 26.23,
+    "power": 3297
+  },
+  {
+    "name": "هلند",
+    "en": "Netherlands",
+    "flag": "🇳🇱",
+    "iso": "NLD",
+    "continent": "Europe",
+    "x": 51.53,
+    "y": 20.95,
+    "power": 14613
+  },
+  {
+    "name": "پرتغال",
+    "en": "Portugal",
+    "flag": "🇵🇹",
+    "iso": "PRT",
+    "continent": "Europe",
+    "x": 47.76,
+    "y": 27.98,
+    "power": 10098
+  },
+  {
+    "name": "چک",
+    "en": "Czechia",
+    "flag": "🇨🇿",
+    "iso": "CZE",
+    "continent": "Europe",
+    "x": 54.26,
+    "y": 22.35,
+    "power": 10691
+  },
+  {
+    "name": "کرواسی",
+    "en": "Croatia",
+    "flag": "🇭🇷",
+    "iso": "HRV",
+    "continent": "Europe",
+    "x": 54.6,
+    "y": 24.99,
+    "power": 6829
+  },
+  {
+    "name": "یونان",
+    "en": "Greece",
+    "flag": "🇬🇷",
+    "iso": "GRC",
+    "continent": "Europe",
+    "x": 56.31,
+    "y": 28.3,
+    "power": 10021
+  },
+  {
+    "name": "استرالیا",
+    "en": "Australia",
+    "flag": "🇦🇺",
+    "iso": "AUS",
+    "continent": "Oceania",
+    "x": 87.36,
+    "y": 64.29,
+    "power": 16270
+  },
+  {
+    "name": "جزایر سلیمان",
+    "en": "Solomon Is.",
+    "flag": "🇸🇧",
+    "iso": "SLB",
+    "continent": "Oceania",
+    "x": 94.44,
+    "y": 54.92,
+    "power": 1654
+  },
+  {
+    "name": "فیجی",
+    "en": "Fiji",
+    "flag": "🇫🇯",
+    "iso": "FJI",
+    "continent": "Oceania",
+    "x": 95.51,
+    "y": 59.62,
+    "power": 3052
+  },
+  {
+    "name": "نیوزیلند",
+    "en": "New Zealand",
+    "flag": "🇳🇿",
+    "iso": "NZL",
+    "continent": "Oceania",
+    "x": 97.97,
+    "y": 73.15,
+    "power": 8424
+  },
+  {
+    "name": "وانواتو",
+    "en": "Vanuatu",
+    "flag": "🇻🇺",
+    "iso": "VUT",
+    "continent": "Oceania",
+    "x": 96.41,
+    "y": 58.63,
+    "power": 1421
+  },
+  {
+    "name": "پاپوآ گینه نو",
+    "en": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "iso": "PNG",
+    "continent": "Oceania",
+    "x": 90.37,
+    "y": 53.58,
+    "power": 4543
+  },
+  {
+    "name": "کالدونیای جدید",
+    "en": "New Caledonia",
+    "flag": "🇳🇨",
+    "iso": "NCL",
+    "continent": "Oceania",
+    "x": 95.98,
+    "y": 61.81,
+    "power": 3313
+  },
+  {
+    "name": "کانادا",
+    "en": "Canada",
+    "flag": "🇨🇦",
+    "iso": "CAN",
+    "continent": "North America",
+    "x": 19.38,
+    "y": 18.5,
+    "power": 42000
+  },
+  {
+    "name": "ایالات متحده آمریکا",
+    "en": "United States of America",
+    "flag": "🇺🇸",
+    "iso": "USA",
+    "continent": "North America",
+    "x": 22.41,
+    "y": 29.31,
+    "power": 42000
+  },
+  {
+    "name": "آرژانتین",
+    "en": "Argentina",
+    "flag": "🇦🇷",
+    "iso": "ARG",
+    "continent": "South America",
+    "x": 32.2,
+    "y": 70.69,
+    "power": 42000
+  },
+  {
+    "name": "شیلی",
+    "en": "Chile",
+    "flag": "🇨🇱",
+    "iso": "CHL",
+    "continent": "South America",
+    "x": 30.6,
+    "y": 80.01,
+    "power": 42000
+  },
+  {
+    "name": "هائیتی",
+    "en": "Haiti",
+    "flag": "🇭🇹",
+    "iso": "HTI",
+    "continent": "North America",
+    "x": 29.96,
+    "y": 39.48,
+    "power": 42000
+  },
+  {
+    "name": "جمهوری دومینیکن",
+    "en": "Dominican Rep.",
+    "flag": "🇩🇴",
+    "iso": "DOM",
+    "continent": "North America",
+    "x": 30.52,
+    "y": 39.61,
+    "power": 42000
+  },
+  {
+    "name": "باهاما",
+    "en": "Bahamas",
+    "flag": "🇧🇸",
+    "iso": "BHS",
+    "continent": "North America",
+    "x": 28.22,
+    "y": 35.17,
+    "power": 42000
+  },
+  {
+    "name": "جزایر فالکلند",
+    "en": "Falkland Is.",
+    "flag": "🇫🇰",
+    "iso": "FLK",
+    "continent": "South America",
+    "x": 33.5,
+    "y": 78.72,
+    "power": 5989
+  },
+  {
+    "name": "Greenland",
+    "en": "Greenland",
+    "flag": "🏳️",
+    "iso": "GRL",
+    "continent": "North America",
+    "x": 39.09,
+    "y": 10.07,
+    "power": 19016
+  },
+  {
+    "name": "مکزیک",
+    "en": "Mexico",
+    "flag": "🇲🇽",
+    "iso": "MEX",
+    "continent": "North America",
+    "x": 21.6,
+    "y": 36.89,
+    "power": 42000
+  },
+  {
+    "name": "اروگوئه",
+    "en": "Uruguay",
+    "flag": "🇺🇾",
+    "iso": "URY",
+    "continent": "South America",
+    "x": 34.49,
+    "y": 67.99,
+    "power": 42000
+  },
+  {
+    "name": "برزیل",
+    "en": "Brazil",
+    "flag": "🇧🇷",
+    "iso": "BRA",
+    "continent": "South America",
+    "x": 36.19,
+    "y": 57.82,
+    "power": 42000
+  },
+  {
+    "name": "بولیوی",
+    "en": "Bolivia",
+    "flag": "🇧🇴",
+    "iso": "BOL",
+    "continent": "South America",
+    "x": 32.32,
+    "y": 59.11,
+    "power": 42000
+  },
+  {
+    "name": "پرو",
+    "en": "Peru",
+    "flag": "🇵🇪",
+    "iso": "PER",
+    "continent": "South America",
+    "x": 28.92,
+    "y": 55.14,
+    "power": 42000
+  },
+  {
+    "name": "کلمبیا",
+    "en": "Colombia",
+    "flag": "🇨🇴",
+    "iso": "COL",
+    "continent": "South America",
+    "x": 29.86,
+    "y": 47.8,
+    "power": 42000
+  },
+  {
+    "name": "پاناما",
+    "en": "Panama",
+    "flag": "🇵🇦",
+    "iso": "PAN",
+    "continent": "North America",
+    "x": 27.37,
+    "y": 45.33,
+    "power": 42000
+  },
+  {
+    "name": "کاستاریکا",
+    "en": "Costa Rica",
+    "flag": "🇨🇷",
+    "iso": "CRI",
+    "continent": "North America",
+    "x": 26.75,
+    "y": 44.61,
+    "power": 42000
+  },
+  {
+    "name": "نیکاراگوئه",
+    "en": "Nicaragua",
+    "flag": "🇳🇮",
+    "iso": "NIC",
+    "continent": "North America",
+    "x": 26.23,
+    "y": 42.84,
+    "power": 42000
+  },
+  {
+    "name": "هندوراس",
+    "en": "Honduras",
+    "flag": "🇭🇳",
+    "iso": "HND",
+    "continent": "North America",
+    "x": 25.77,
+    "y": 41.95,
+    "power": 42000
+  },
+  {
+    "name": "السالوادور",
+    "en": "El Salvador",
+    "flag": "🇸🇻",
+    "iso": "SLV",
+    "continent": "North America",
+    "x": 25.3,
+    "y": 42.32,
+    "power": 42000
+  },
+  {
+    "name": "گواتمالا",
+    "en": "Guatemala",
+    "flag": "🇬🇹",
+    "iso": "GTM",
+    "continent": "North America",
+    "x": 24.91,
+    "y": 41.23,
+    "power": 42000
+  },
+  {
+    "name": "بلیز",
+    "en": "Belize",
+    "flag": "🇧🇿",
+    "iso": "BLZ",
+    "continent": "North America",
+    "x": 25.36,
+    "y": 40.38,
+    "power": 42000
+  },
+  {
+    "name": "ونزوئلا",
+    "en": "Venezuela",
+    "flag": "🇻🇪",
+    "iso": "VEN",
+    "continent": "South America",
+    "x": 31.83,
+    "y": 46.4,
+    "power": 42000
+  },
+  {
+    "name": "گویان",
+    "en": "Guyana",
+    "flag": "🇬🇾",
+    "iso": "GUY",
+    "continent": "South America",
+    "x": 33.65,
+    "y": 47.27,
+    "power": 42000
+  },
+  {
+    "name": "سورینام",
+    "en": "Suriname",
+    "flag": "🇸🇷",
+    "iso": "SUR",
+    "continent": "South America",
+    "x": 34.44,
+    "y": 47.87,
+    "power": 42000
+  },
+  {
+    "name": "اکوادور",
+    "en": "Ecuador",
+    "flag": "🇪🇨",
+    "iso": "ECU",
+    "continent": "South America",
+    "x": 28.26,
+    "y": 50.98,
+    "power": 42000
+  },
+  {
+    "name": "پورتوریکو",
+    "en": "Puerto Rico",
+    "flag": "🇵🇷",
+    "iso": "PRI",
+    "continent": "North America",
+    "x": 31.54,
+    "y": 39.83,
+    "power": 42000
+  },
+  {
+    "name": "جامائیکا",
+    "en": "Jamaica",
+    "flag": "🇯🇲",
+    "iso": "JAM",
+    "continent": "North America",
+    "x": 28.57,
+    "y": 39.99,
+    "power": 42000
+  },
+  {
+    "name": "کوبا",
+    "en": "Cuba",
+    "flag": "🇨🇺",
+    "iso": "CUB",
+    "continent": "North America",
+    "x": 28.42,
+    "y": 38.12,
+    "power": 42000
+  },
+  {
+    "name": "پاراگوئه",
+    "en": "Paraguay",
+    "flag": "🇵🇾",
+    "iso": "PRY",
+    "continent": "South America",
+    "x": 33.71,
+    "y": 62.84,
+    "power": 42000
+  },
+  {
+    "name": "ترینیداد و توباگو",
+    "en": "Trinidad and Tobago",
+    "flag": "🇹🇹",
+    "iso": "TTO",
+    "continent": "North America",
+    "x": 32.97,
+    "y": 44.13,
+    "power": 42000
+  }
+]
